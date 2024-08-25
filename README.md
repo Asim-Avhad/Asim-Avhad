@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Asim-Avhad
 - 👀 I’m interested in web dev, ML, AI
 - 🌱 I’m currently learning Neural Networks
+- 💻 Check out my portfolio - https://asim-portfolio.vercel.app/
 - 📫 How to reach me - www.linkedin.com/in/asim-avhad 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love pandas, I am not a Kungfu Panda but I am a Coding Panda 🐼
