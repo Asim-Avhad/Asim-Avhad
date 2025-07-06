@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an industry full stack project<br>💻 Check out my portfolio - https://asim-portfolio.vercel.app/<br>👀 I’m interested in Web-Development, ML, AI<br>🌱 I’m currently learning Neural Networks<br>⚡ Fun fact: I love pandas, I am not a Kungfu Panda but I am a Coding Panda 🐼
+🔭 I’m currently working on my forgotten coding skills<br>💻 Check out my portfolio - https://asim-portfolio.vercel.app/<br>👀 I’m interested in Web-Development, ML, AI<br>🌱 I’m currently learning Neural Networks<br>⚡ Fun fact: I love pandas, I am not a Kungfu Panda but I am a Coding Panda 🐼
 
 
 ## 🌐 Socials:
